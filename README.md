@@ -57,7 +57,7 @@ __Graph color key__
     - This correlation seems acceptable due to cities typically having greater access to music and night life. 
 
 
-In the next iteration of resarch I would ask spotify to provude us with data on: premium vs non premim, areas of the world that stream spotify the most, what time of day music is streamed (computer vs mobile devices)
+In the next iteration of resarch I would ask spotify to provide us with data on: premium vs non premim, areas of the world that stream spotify the most, what time of day music is streamed (computer vs mobile devices)
 
 
 ### **Expanding on Research Questions**
